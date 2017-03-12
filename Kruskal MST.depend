@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1488925062 source:c:\users\cvare\onedrive\documents\sources\c++\kruskalmst-master\edge.cpp
+	"Edge.h"
+
+1488925062 c:\users\cvare\onedrive\documents\sources\c++\kruskalmst-master\edge.h
+
+1489349355 source:c:\users\cvare\onedrive\documents\sources\c++\kruskalmst-master\test.cpp
+	"Test.h"
+
+1488925062 c:\users\cvare\onedrive\documents\sources\c++\kruskalmst-master\test.h
+	<iostream>
+	<vector>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<map>
+	<queue>
+	<list>
+	"Edge.h"
+
+1489349804 source:c:\users\cvare\onedrive\documents\sources\c++\kruskalmst-master\main.cpp
+	"Test.h"
+	<iostream>
+	"Edge.h"
+
